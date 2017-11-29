@@ -11,7 +11,7 @@ url: "https://elettronda.pedani.it"
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
 #
-baseurl: nil
+baseurl: ""
 #baseurl: "/duo/"
 
 # Twitter IDs
