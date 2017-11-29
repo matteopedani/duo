@@ -2,17 +2,17 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: ElettOnda
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://elettronda.pedani.it"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
 #
-# baseurl: nil
-baseurl: "/duo/"
+baseurl: nil
+#baseurl: "/duo/"
 
 # Twitter IDs
 twitter:
@@ -44,13 +44,13 @@ permalink: posts/:title/
 google_analytics: ""
 
 # Language. For example, if you write in Japanese, use "ja"
-lang: "en"
+lang: "it"
 
 # How many posts are visible on the home page without clicking "View More"
 num_posts_visible_initially: 5
 
 # Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
+date_format: "%d %b, %Y"
 # ----------------------------------------------------------------------------
 
 exclude:
