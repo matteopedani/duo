@@ -39,4 +39,3 @@ title: "Informazioni"
 
 
 
-See: [https://jekyllrb.com/philosophy](https://jekyllrb.com/philosophy)
