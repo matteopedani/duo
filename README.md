@@ -1,12 +1,13 @@
 ![](/static/images/620px-Boelge_stor.jpg)
-
+foto di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</a>
 <section id="text">
   <article id="text__paragraphs">
     <header>
       <h1>ElettrOnda</h1></header>
     <div>
-<h4>
-Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari per la produzione di energia da movimenti come le onde del mare</h4>  
+<h3>
+Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari  datti alla produzione di energia da movimenti come le onde del mare
+</h3>  
       <p>
 	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica.
 </p> 
@@ -51,7 +52,6 @@ foto di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</
 </section>
 
 
-![](http://www.makerfairerome.eu/wp-content/uploads/2017/05/MF17_Banner_ITA-04.png)
 
 
 <section id="makerfare">
@@ -75,5 +75,5 @@ Puoi acquistare biglietti scontati (€ 6,00 il giornaliero e € 16,00 il 3-day
     </footer>
 </article>
 </section>
-
+![](/static/images/MF17_Banner_ITA-04.png)
 <a class="twitter-timeline" href="https://twitter.com/MakerFaireRome?ref_src=twsrc%5Etfw">Tweets by MakerFaireRome</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
