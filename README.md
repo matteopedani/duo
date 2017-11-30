@@ -1,58 +1,21 @@
 ![](/static/images/620px-Boelge_stor.jpg)
-foto di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</a>
 <section id="text">
   <article id="text__paragraphs">
     <header>
       <h1>ElettrOnda</h1></header>
     <div>
 <h3>
-Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari  datti alla produzione di energia da movimenti come le onde del mare
+Sono passati più di 100 anni dall invenzione dei generatori elettrici adatti alla produzione di energia da movimenti come le onde del mare
 </h3>  
       <p>
-	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica.
+	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica. 
 </p> 
-foto di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</a>
     </div>
     <footer>
       <p><a href="#top">[inizio]</a></p>
     </footer>
   </article>
 </section>
-<section id="forms">
-  <header> <h2></h2></header>
-  <form>
-    <fieldset id="forms__input">
-      <legend>Richiesta di informazioni</legend>
-      <p>
-        <label for="input__name">nome</label>
-        <input id="input__name" type="text" placeholder="Nome Cognome">
-      </p>
-      <p>
-        <label for="input__emailaddress">indirizzo email</label>
-        <input id="input__emailaddress" type="email" placeholder="name@email.com">
-      </p>
-      <p>	   
-	<label for="input__phone">telefono</label>
-        <input id="input__phone" type="tel" placeholder="0612345676">
-        <label for="input__mobile">cellulare</label>
-        <input id="input__mobile" type="tel" placeholder="33712345676">
-      </p>
-
-      <ul class="list list--bare">
-        <li><label for="checkbox1"><input id="checkbox1" name="checkbox" type="checkbox" checked="checked"> voglio donare </label></li>
-        <li><label for="checkbox2"><input id="checkbox2" name="checkbox" type="checkbox"> voglio investire  </label></li>
-        <li><label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox"> solo informazioni </label></li>
-      </ul>
-      <p>
-        <input type="submit" value="invia">
-      </p>
-    </fieldset>
-    <p><a href="#top">[Top]</a></p>
-  </form>
-</section>
-
-
-
 
 <section id="makerfare">
   <article id="text__paragraphs">
@@ -77,3 +40,5 @@ Puoi acquistare biglietti scontati (€ 6,00 il giornaliero e € 16,00 il 3-day
 </section>
 ![](/static/images/MF17_Banner_ITA-04.png)
 <a class="twitter-timeline" href="https://twitter.com/MakerFaireRome?ref_src=twsrc%5Etfw">Tweets by MakerFaireRome</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+la foto della testata è  di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</a>
