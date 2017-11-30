@@ -1,4 +1,4 @@
-![](http://elettroonda.pedani.it/static/images/620px-Boelge_stor.jpg)
+![](/static/images/620px-Boelge_stor.jpg)
 
 <section id="text">
   <article id="text__paragraphs">
