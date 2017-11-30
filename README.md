@@ -50,7 +50,8 @@ Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari p
 </section>
 
 
-![](http://www.makerfairerome.eu/it/chi-siamo/promuovi-2/mf17_banner_ita-04/)
+![](http://www.makerfairerome.eu/wp-content/uploads/2017/05/MF17_Banner_ITA-04.png)
+
 
 <section id="makerfare">
   <article id="text__paragraphs">
