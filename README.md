@@ -5,9 +5,11 @@
     <header>
       <h1>ElettrOnda</h1></header>
     <div>
-<h4>Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari per la produzione di energia da movimenti come le onde del mare</h4>  
-      <p>Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica. A paragraph (from the Greek paragraphos, “to write beside” or “written beside”) is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the
-        syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.</p>
+<h4>
+Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari per la produzione di energia da movimenti come le onde del mare</h4>  
+      <p>
+	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica.
+</p> 
     </div>
     <footer>
       <p><a href="#top">[inizio]</a></p>
@@ -20,18 +22,16 @@
     <fieldset id="forms__input">
       <legend>Richiesta di informazioni</legend>
       <p>
-        <label for="input__name">Nome</label>
+        <label for="input__name">nome</label>
         <input id="input__name" type="text" placeholder="Nome Cognome">
       </p>
       <p>
         <label for="input__emailaddress">indirizzo email</label>
         <input id="input__emailaddress" type="email" placeholder="name@email.com">
       </p>
-      <p>
-        <label for="input__phone">telefono</label>
+      <p>	   
+	<label for="input__phone">telefono</label>
         <input id="input__phone" type="tel" placeholder="0612345676">
-      </p>
-      <p>
         <label for="input__mobile">cellulare</label>
         <input id="input__mobile" type="tel" placeholder="33712345676">
       </p>
@@ -42,7 +42,7 @@
         <li><label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox"> solo informazioni </label></li>
       </ul>
       <p>
-        <input type="submit" value="<input type=submit>">
+        <input type="submit" value="invia">
       </p>
     </fieldset>
     <p><a href="#top">[Top]</a></p>
