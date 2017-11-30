@@ -56,13 +56,13 @@ Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari p
 <section id="makerfare">
   <article id="text__paragraphs">
     <header>
-      <h2>Siamo presenti al MakerFare 2017</h2></header>
+      <h2>Siamo presenti al Maker Faire 2017</h2></header>
     <div>
     <h3> 
         Anche i bambini potranno capire come funziona un generatore di corrente elettrica dalle onde. 
     </h3>
       <p>
-         Ti aspettiamo nel nostro spazio del MakerFare2017 siamo   C24 (pav. 6). Sarà presente una installazione per toccare con la mano come viene convertito  il moto delle onde in corrente elettrica.  
+         Ti aspettiamo nel nostro spazio del Maker Faire2017 siamo  nello spazio  C24 (pav. 6)  Sarà presente una installazione per toccare con la mano come viene convertito  il moto delle onde in corrente elettrica.  
      </p>
 <h4>Biglietti Scontati</h4>
 <p>
