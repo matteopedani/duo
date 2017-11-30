@@ -1,4 +1,4 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+![](https://elettroonda.pedani.it/static/images/620px-Boelge_stor.jpg)
 
 <section id="text">
   <article id="text__paragraphs">
@@ -10,6 +10,7 @@ Sono passati più di 100 anni dall invenzione dei generatori elettrici lineari p
       <p>
 	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica.
 </p> 
+foto di <a href="http://commons.wikimedia.org/wiki/User:Malene">Malene Thyssen</a>
     </div>
     <footer>
       <p><a href="#top">[inizio]</a></p>
