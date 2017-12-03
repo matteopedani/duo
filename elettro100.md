@@ -6,37 +6,12 @@ title: "Informazioni"
 ---
 
 
-<section id="forms">
-
-<form action="MAILTO:<matteo@pedani.it>?subject=elettro100&body=Tenetemi informato su ElettroOnda, fatemi sapere come donare 100 euro per avere la promozione elettro100 " method="post" enctype="text/plain">^M
-</br>^M
+<section id="forms"><form action="MAILTO:<matteo@pedani.it>?subject=elettro100&body=Tenetemi informato su ElettroOnda, fatemi sapere come donare 100 euro per avere la promozione elettro100 " method="post" enctype="text/plain"></br>
 <input type="submit" value="promozione elettro100"></form></div>
 
+<section id="forms"><form action="MAILTO:<matteo@pedani.it>?subject=elettro100&body=Tenetemi informato su ElettroOnda, fatemi sapere come donare avere i generatori elettrici " method="post" enctype="text/plain"></br>
+<input type="submit" value="Voglio avere i generatori elettrici"></form></div>
 
-  <form>
-    <fieldset id="forms__input">
-      <legend>Richiesta di informazioni</legend>
-      <p>
-        <label for="input__name">nome</label>
-        <input id="input__name" type="text" placeholder="Nome Cognome">
-      </p>
-      <p>
-        <label for="input__emailaddress">indirizzo email</label>
-        <input id="input__emailaddress" type="email" placeholder="name@email.com">
-      </p>
-      <p>
-        <label for="input__phone">telefono</label>
-        <input id="input__phone" type="tel" placeholder="0612345676">
-        <label for="input__mobile">cellulare</label>
-        <input id="input__mobile" type="tel" placeholder="33712345676">
-      </p>
+<section id="forms"><form action="MAILTO:<matteo@pedani.it>?subject=elettro100&body=Tenetemi informato su ElettroOnda. " method="post" enctype="text/plain"></br>
+<input type="submit" value="mandatemi informazioni su ElettrOnda"></form></div>
 
-      <ul class="list list--bare">
-        <li><label for="checkbox1"><input id="checkbox1" name="checkbox" type="checkbox" checked="checked"> voglio donare </label></li>
-        <li><label for="checkbox2"><input id="checkbox2" name="checkbox" type="checkbox"> voglio investire  </label></li>
-        <li><label for="checkbox3"><input id="checkbox3" name="checkbox" type="checkbox"> solo informazioni </label></li>
-      </ul>
-      <p>
-        <input type="submit" value="invia">
-      </p>
-    </fieldset>
