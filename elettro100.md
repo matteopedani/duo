@@ -1,5 +1,6 @@
 ---
 title: "Informazioni"
+---
 
 
 <section id="form1"><form action="MAILTO:<matteo@pedani.it>?subject=elettro100&body=Tenetemi informato su ElettrOnda, fatemi sapere come donare 100 euro per avere la promozione elettro100 " method="post" enctype="text/plain">
