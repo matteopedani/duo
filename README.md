@@ -5,7 +5,7 @@
       <h1>ElettrOnda</h1></header>
     <div>
 <h3>
-Sono passati più di 100 anni dall invenzione dei generatori elettrici adatti alla produzione di energia da movimenti come le onde del mare
+Sono passati più di 100 anni dall invenzione dei generatori elettrici adatti alla produzione di energia da movimenti come le onde del mare.
 </h3>  
       <p>
 	Parte una campagna di sottoscrizioni, e di raccolta di investimenti per la realizzazione di un campo di boe per la produzione di energia elettrica. 
